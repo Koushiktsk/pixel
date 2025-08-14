@@ -3,7 +3,7 @@
 A modern, AI-powered photo editing web app built with Next.js, offering intuitive tools and features to enhance images—all backed by intelligent automation.
 
 **Live Demo**: [pixel-delta-five.vercel.app](https://pixel-delta-five.vercel.app/)  
-**Stack**: Next.js (React), Node.js, AI services, CSS/styling :contentReference[oaicite:1]{index=1}
+**Stack**: Next.js (React), Node.js, AI services, CSS/styling 
 
 ---
 
